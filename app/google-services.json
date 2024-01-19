@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "924282458218",
+    "project_id": "fir-b-71560",
+    "storage_bucket": "fir-b-71560.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924282458218:android:b143bae557e08c982f3a13",
+        "android_client_info": {
+          "package_name": "diego.bisquert.firebasefinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSfbX80l0urHvsCV8NNWIPH-6EbTkA7vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
